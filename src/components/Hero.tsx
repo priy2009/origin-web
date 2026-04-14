@@ -27,8 +27,8 @@ export function Hero() {
                     transition={{ duration: 0.8, delay: 0.1, ease: [0.22, 1, 0.36, 1] }}
                     className="text-5xl md:text-7xl lg:text-8xl font-medium tracking-tight mb-6"
                 >
-                    Building the Future <br />
-                    <span className="text-transparent bg-clip-text bg-gradient-to-r from-white to-muted lg:whitespace-nowrap">with Agentic Artificial Intelligence</span>
+                    Building the best and safe <br />
+                    <span className="text-transparent bg-clip-text bg-gradient-to-r from-white to-muted">AGI and Agentic Artificial Intelligence</span>
                 </motion.h1>
 
                 <motion.p
